@@ -1,0 +1,3 @@
+# findtrend
+
+![](./public/preview.png)
